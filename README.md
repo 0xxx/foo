@@ -1,3 +1,3 @@
-# ngin
+# rex
 
 nothing to do
