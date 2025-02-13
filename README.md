@@ -1,3 +1,3 @@
-# rex
+# Foo
 
-nothing to do
+AI-Native framework
